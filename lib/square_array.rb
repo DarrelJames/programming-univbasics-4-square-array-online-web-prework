@@ -3,7 +3,9 @@ def square_array(array)
   counter = 0
   squared = []
   while array[counter]
-    sqaurd << array[counter]
+    sqaured << array[counter]
     counter +=1
   end
+
+  squarded
 end
